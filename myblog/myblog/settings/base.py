@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'wagtail.contrib.sitemaps',
     'wagtail.contrib.routable_page',
     'django_social_share',
+    'myblog_puput',
     'puput',
     'colorful',
     'modelcluster',
